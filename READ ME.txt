@@ -1,0 +1,5 @@
+All three versions of the binary don't run into any problems with the virus detectors
+
+
+I was running into serious trouble getting the ExeInfo item to recognize the C files I compiled.
+
